@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "snappy-guard-200200",
+  "private_key_id": "301e5b3cf3fcd4a0cb08f7bdbc6b1916954a363c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDBpb6CY/6VV1cy\nGSXIHhLxuc5ygX4Yyr3Bjb0NnmduA8VQdLccNP4JuZ66pA6RJNjXDZ5RKNarorH0\nkO8DqhwfBMsAab7Kyxvae3g7oevGLW4E3w2mkjsVNQIyjjqGzU8iBuvaBTfS7nnI\nJpX3wo+yDaKaqVFfotBoKb+c0XeL2ksDGIAQNdMvmdc8orj5AFbzSV0qp9f2yvrC\nOmU0p5Q63Ic6utskLYDXx5IOYuE7dAPmXrciSzbaa0VUD/TZak+dpK5NI1sarmBB\nZp+t+3MoB7IG9yG9RRrl7oZd1QN7m565MXUor9U5wdKknlq3sh25L9Fk3QD2UYAq\nzXe2CgqjAgMBAAECggEAVhSD6blih2dSWvJD0b/QowR6CXuXnpStIleL1Px3tLdX\nZErlxNOno5IQRZ483XdYLsyedixltNk3KuSsYuAg7Qb36GCZT9NWt9nP2g5B3Q//\nyomOq19whR5RskB4MskcJp+WAw3zwT+CAh9o5cBmmPsnr4GZqx4Yb10zkJWqgw9J\nbEvHhsBRsJpML8Ro5utjpr4g9lf5cQXnwYs7n5tSv6iO2EYhqKuvY9bvtjF3nppc\nhvO2kJnptqHXD+mEfzWFqf/6GDZzutiUhB1F2vyMFcecMnN3kb5OloelzMbRA2A+\n1nzOeHMpYa5QJd8stKeByI6N4OGWgoK8FIza5im/qQKBgQDwADBO+LZN2ZJuWWsd\nCmo4VJHWAkalkhSg2aLrdozqS59wQy9y9EzJWeMpXBQDeiqdbjIftW24X2BHvP0B\npMp5430GgCulcqYPK3mWnU7pGTwgNKoSsPwwtvI6xpEtMH+PgbuNEJ9N6NNrYxvx\nQu8diZJfQie5W+cE1EH47MMKyQKBgQDOjn9/8zG2h1/5yrVNmQ5D5SePw+i5FTa2\nE3c4RNDnQOAofHfKJG78HfYX3lhAu1DZ0uFhMxnnqVWtfYzawuWttGA8qH2VEee6\n0HsMqCuVQSd+xRDQ+wBDAQVRK+vIz9CxLiPl8pbhlQKdrwP/5OV2EaNbIFF382d3\nhrWcB9n0CwKBgQC3gJ1vNFFHkuyYPPxeNwFiUp8zD4huvhPRrLYZ7QnvdqTQlD4q\nWcqARZ8fl4yh3/3HY2MlxXW//ATEtSaJ5DMAIUUN/F/i35dCkA4mb97O8YF8amgD\nZJlesfLhp8OG1schtaLuR+BWFIfaWuwZewETB4YIGa//1Nn9YkGTD4xNqQKBgQC5\nq4GUY+jF6D4vbTU3wWL/SNcc9b8Vz6nUVP8Ph1w44yobena7L7DL06rInca6uSXe\nBx8sniClCqPHRVn9sr9+Oute2x23h9bDKG/TWr+CdISqAT4ye80qbZp38oEJizRO\nb+k4460YrTciwpVXykswrH4ohY51wke5O0+4J56VLQKBgQDfNjUKpTpySTUc+m3I\nWJ9pDi7YlNwrfA7riBdFInX1ZG+HDnLJXG3VTWpR79kEArmaeCp0jCgP92pard7j\nP9CaLB5SVpBaZAiGdqknWft/AzeivdCECYGj5LTiMc+6Iwyztaa1DXSwhb2xGTao\ntdlwHVT1sk+lIngGtgK9TRQ+HQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "viewer@snappy-guard-200200.iam.gserviceaccount.com",
+  "client_id": "114099149642516162354",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/viewer%40snappy-guard-200200.iam.gserviceaccount.com"
+}
